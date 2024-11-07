@@ -1,0 +1,3 @@
+[submodule "Dll1/plutonium-sdk"]
+	path = Dll1/plutonium-sdk
+	url = https://github.com/Yallamaztar/plutonium-sdk.git
